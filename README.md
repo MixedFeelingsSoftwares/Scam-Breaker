@@ -9,9 +9,9 @@ You can edit the keywords using **Breaker_config.json**. If it detects a keyword
 And change the text inside, title of the notepad window. It takes minimal CPU.
 
 ### To be added
-⋅⋅* On exit it will run again.. (If not crashed).
-⋅⋅* GUI for easy config editing.
-⋅⋅* Hooks into Command Prompt (cmd.exe).
++ On exit it will run again.. (If not crashed).
++ GUI for easy config editing.
++ Hooks into Command Prompt (cmd.exe).
 
 ### Screenshot
 ![alt text](http://0x0.st/s2hg.png "Screenshot")
