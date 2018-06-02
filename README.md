@@ -15,7 +15,7 @@ It will detect if a notepad is open, and then it will scan for keywords that mat
 You can edit the keywords using **Breaker_config.json**. If it detects a keyword, it will lock the entire notepad.
 And change the text inside, title of the notepad window. It takes minimal CPU.
 
-### Screenshots and Videos
+### Screenshot
 ![alt text](http://0x0.st/s2hg.png "Screenshot")
 
 For now you'll need to edit the **Breaker_config.json**, which will be generated inside **C:\Windows\Breaker_config.json**
