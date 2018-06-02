@@ -4,16 +4,14 @@
 #### Requires .NET 6.4.2 - Download [.NET 6.4.2](https://www.microsoft.com/en-us/download/details.aspx?id=53344)
 
 This is a simple program, that runs in the background.
+It will detect if a notepad is open, and then it will scan for keywords that match.. **Customizable keywords**
+You can edit the keywords using **Breaker_config.json**. If it detects a keyword, it will lock the entire notepad.
+And change the text inside, title of the notepad window. It takes minimal CPU.
 
 ### To be added
 ⋅⋅* On exit it will run again.. (If not crashed).
 ⋅⋅* GUI for easy config editing.
 ⋅⋅* Hooks into Command Prompt (cmd.exe).
-
-
-It will detect if a notepad is open, and then it will scan for keywords that match.. **Customizable keywords**
-You can edit the keywords using **Breaker_config.json**. If it detects a keyword, it will lock the entire notepad.
-And change the text inside, title of the notepad window. It takes minimal CPU.
 
 ### Screenshot
 ![alt text](http://0x0.st/s2hg.png "Screenshot")
