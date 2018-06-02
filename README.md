@@ -17,7 +17,6 @@ And change the text inside, title of the notepad window. It takes minimal CPU.
 
 ### Screenshots and Videos
 ![alt text](http://0x0.st/s2hg.png "Screenshot")
-[Video Preview - Streamable.com](https://streamable.com/vs8a2)
 
 For now you'll need to edit the **Breaker_config.json**, which will be generated inside **C:\Windows\Breaker_config.json**
 I'm going to make a GUI editor for the easy edit.
