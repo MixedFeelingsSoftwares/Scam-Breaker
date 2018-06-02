@@ -17,8 +17,7 @@ And change the text inside, title of the notepad window. It takes minimal CPU.
 
 ### Screenshots and Videos
 ![alt text](http://0x0.st/s2hg.png "Screenshot")
-
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 66.298%;"><iframe src="https://streamable.com/s/vs8a2/lbcdzj" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+[Video Preview - Streamable.com](https://streamable.com/vs8a2)
 
 For now you'll need to edit the **Breaker_config.json**, which will be generated inside **C:\Windows\Breaker_config.json**
 I'm going to make a GUI editor for the easy edit.
